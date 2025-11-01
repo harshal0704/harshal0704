@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harshal%20Patel&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://telegra.ph/file/e44d38b7048a13a8b87a7.jpg" alt="Header" width="100%"/>
-</div>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Harshal+Patel;Full+Stack+Developer+%F0%9F%9A%80;Passionate+About+Innovation;Always+Learning+New+Things+%F0%9F%93%9A;Let's+Build+Something+Amazing!" alt="Typing SVG" />
