@@ -76,18 +76,6 @@ const harshal = {
   <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshal0704&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </p>
 
-## 🎵 Now Playing on Spotify
-
-<p align="center">
-  <img src="https://novatorem-hsd451crh-harshal0704s-projects.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/harshal0704/harshal0704/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
 ## 💻 Tech Stack
 
 ### 🎨 Frontend
