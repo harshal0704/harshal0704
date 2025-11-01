@@ -1,32 +1,3 @@
-# My Awesome Project
-
-## Welcome to My Awesome Project!
-
-This is where the magic happens. This project is all about making your life easier, one line of code at a time. 
-
-## Getting Started
-
-Ready to dive in? Here's how to get started:
-
-### Installation
-
-1. Clone this repo:
-   ```sh
-   git clone https://github.com/harshal/readme.git
-   ```
-2. Install the dependencies:
-   ```sh
-   npm install
-   ```
-
-### Usage
-
-To get the project up and running, use the following command:
-
-```sh
-npm start
-```
-
 ## Tech Stack
 
 This project was brought to you by the power of these amazing technologies:
