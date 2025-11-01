@@ -138,10 +138,10 @@ const harshal = {
 
 <div align="center">
   <h3>💖 Show some love by starring ⭐ some repositories!</h3>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</div>
-### :zap: Recent Activity
+##:zap: Recent Activity
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
+<!--END_SECTION:activity-->  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
+
